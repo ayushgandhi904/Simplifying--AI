@@ -4,7 +4,7 @@ Complete PDFs covering All topics Simplifying AI Backhand.
 
 ## Statistics
 
-1. [Probability in Machine Learning Part-1]()
+1. [Probability in Machine Learning Part-1](https://github.com/ayushgandhi904/Simplifying--AI/blob/main/Probability/Probability%20in%20ML%20(Part-1).pdf)
 
 ## Machine Learning
 
